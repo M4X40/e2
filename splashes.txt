@@ -338,3 +338,6 @@ There must have been an angel by my side
 FETCH ME THEIR SOULS
 Double Points
 Good to see ya, Tank
+{"placeholder":"clipboard_content"}
+I'm always watching, {"placeholder":"playername"}...
+{"placeholder":"realtimehour","values":{"twelve_hour_format":"false","timezone":"system"}}:{"placeholder":"realtimeminute","values":{"timezone":"system"}}:{"placeholder":"realtimesecond","values":{"timezone":"system"}}
