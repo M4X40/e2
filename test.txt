@@ -1,0 +1,3 @@
+{"placeholder":"clipboard_content"}
+I'm always watching, {"placeholder":"playername"}...
+{"placeholder":"realtimehour","values":{"twelve_hour_format":"false","timezone":"system"}}:{"placeholder":"realtimeminute","values":{"timezone":"system"}}:{"placeholder":"realtimesecond","values":{"timezone":"system"}}
