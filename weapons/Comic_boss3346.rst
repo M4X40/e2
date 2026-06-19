@@ -14,8 +14,11 @@ Stat Overview
 =============
 
 Damage: ?
+
 Swing Speed: ?
+
 Durability: Infinite!
+
 Hold Style: Dual-Wield
 
 
