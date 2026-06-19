@@ -12,14 +12,15 @@ Hey, Salem. This guide is here to teach you how to use your personal weapon!
 
 Stat Overview
 =============
-
-Damage: ?
-
-Swing Speed: ?
-
-Durability: Infinite!
-
-Hold Style: Dual-Wield
++---------------+--------------+
+| Damage        | ?            |
++---------------+--------------+
+| Swing Speed   | ?            |
++---------------+--------------+
+| Durability    | Infinite     |
++---------------+--------------+
+| Hold Style    | Dual-Wield   |
++---------------+--------------+
 
 
 Ability
@@ -27,13 +28,16 @@ Ability
 Ability Quick-Guide
 -------------------
 
-Ability: Dash
++---------------+--------------+
+| Ability       | Dash         |
++---------------+--------------+
+| Keybind       | Right-Click  |
++---------------+--------------+
+| Invuln-Time   | 1s (20t)     |
++---------------+--------------+
+| Cooldown      | 2s (40t)     |
++---------------+--------------+
 
-Keybind: Right-Click
-
-Invuln-Time: 1 second (20 ticks)
-
-Cooldown: 2 seconds (40 ticks)
 
 Ability Description
 -------------------
