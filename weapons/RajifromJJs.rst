@@ -46,7 +46,11 @@ Ability Quick-Guide
 Ability Description
 -------------------
 
-The Dark Moon Greatsword has the ability (skill) of Moonlight Greatsword. The meter will slowly gain a pip every 5 seconds, up to 8, although hitting a mob will charge 1 pip per hit. When at full charge, holding right-click will "bathe it in the light of the dark moon," activating the Moonlight Greatsword. When active, each swing will send out a blast of moonlight, infinitely piercing mobs and freezing whatever it touches for 3 seconds. Each projectile sent will cost 2 pips, meaning a total of 4 projectiles will be sent out before deactivating and returning to the Dark Moon Greatsword.
+The Dark Moon Greatsword has the ability (skill) of Moonlight Greatsword. The meter will slowly gain a pip every 5 seconds, up to 8, although hitting a mob will charge 1 pip per hit. 
+
+When at full charge, holding right-click will "bathe it in the light of the dark moon," activating the Moonlight Greatsword. When active, each swing will send out a blast of moonlight, infinitely piercing mobs and freezing whatever it touches for 3 seconds. 
+
+Each projectile sent will cost 2 pips, meaning a total of 4 projectiles will be sent out before deactivating and returning to the Dark Moon Greatsword.
 
 
 Demo
