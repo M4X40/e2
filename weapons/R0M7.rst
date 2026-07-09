@@ -1,7 +1,7 @@
- | The Ultimate Guide
+Stormbreaker | The Ultimate Guide
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Hey, . This guide is here to teach you how to use your personal weapon!
+Hey, Rome. This guide is here to teach you how to use your personal weapon!
 
 ----
 
@@ -12,15 +12,15 @@ Hey, . This guide is here to teach you how to use your personal weapon!
 
 Stat Overview
 =============
-+---------------+--------------+
-| Damage        | ?            |
-+---------------+--------------+
-| Swing Speed   | ?            |
-+---------------+--------------+
-| Durability    | Infinite     |
-+---------------+--------------+
-| Hold Style    |              |
-+---------------+--------------+
++---------------+-------------------------+
+| Damage        | 12 (14 when awakened)   |
++---------------+-------------------------+
+| Swing Speed   | 0.9 (0.7 when awakened) |
++---------------+-------------------------+
+| Durability    | Infinite                |
++---------------+-------------------------+
+| Hold Style    | Two-Handed              |
++---------------+-------------------------+
 
 
 Ability
@@ -28,26 +28,30 @@ Ability
 Ability Quick-Guide
 -------------------
 
-+---------------+--------------+
-| Ability       | Dash         |
-+---------------+--------------+
-| Keybind       | Right-Click  |
-+---------------+--------------+
-|               |              |
-+---------------+--------------+
-|               |              |
-+---------------+--------------+
++--------------------+--------------+
+| Ability            | Awaken       |
++--------------------+--------------+
+| Keybind            | Right-Click  |
++--------------------+--------------+
+| Deterioration Rate | 1 pip / 5s   |
++--------------------+--------------+
+| Duration           | 5s (100t)    |
++--------------------+--------------+
+| Strike Chance      | 45%          |
++--------------------+--------------+
 
 
 Ability Description
 -------------------
 
+Stormbreaker has the ability to Awaken. Every time you hit a mob, you will gain 1 pip (segment) of the awaken meter. Once full, right click to strike yourself with lightning, damaging and knocking back nearby mobs, awakening Stormbreaker.
 
+While awakened, you will throw Stormbreaker instead of swinging it, and every hit on a mob has a 45% chance to strike them with lightning. After 5 seconds, Stormbreaker will go back to its Dormant form.
 
 
 Demo
 ====
 
-This video will demonstrate the usage of .
+This video will demonstrate the usage of Stormbreaker.
 
 [INSERT VIDEO HERE]
