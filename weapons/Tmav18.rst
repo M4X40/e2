@@ -14,9 +14,9 @@ Stat Overview
 =============
 
 +--------------+---------------------+
-| Damage       | ?                   |
+| Damage       | 7                   |
 +--------------+---------------------+
-| Swing Speed  | ?                   |
+| Swing Speed  | 1.2                 |
 +--------------+---------------------+
 | Durability   | Infinite            |
 +--------------+---------------------+
@@ -43,7 +43,7 @@ Ability Description
 
 The Maverick is a melee-focused shield, but not just any shield. It can block melee attacks just fine, but when faced with a projectile, it will be reflected back where you are looking. Arrows, fireballs, potions, snowballs, even wither skulls. It is the ultimate defensive tool!
 
-Nothing, other than yourself, is immune to the relfected projectiles, so be sure you are aware of where you aim your shots. You can hold up the shieldf for as long as you want, but just remember, your back is still vulverable.
+Nothing, other than yourself, is immune to the relfected projectiles, so be sure you are aware of where you aim your shots. You can hold up the shield for as long as you want, but just remember, your back is still vulverable.
 
 
 Demo
