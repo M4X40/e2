@@ -43,16 +43,24 @@ Ability Quick-Guide
 Ability Description
 -------------------
 
-Nichirin Fangs actually have 2 seperate abilities! 
+Rampage, which is denoted by a red meter when not crouching, is your passive ability. Every time you hit an entity, you will gain 1 pip (segment) of the meter. 
 
-Rampage, which is denoted by a red meter when not crouching, is your passive ability. Every time you hit an entity, you will gain 1 pip (segment) of the meter. By default, you have no pips, but when you have one or more pips, you will gain Haste. With each extra pip, the level of haste will increase, up to 5. At 5 pips, or full charge, you will also gain Regen 1. On top of that, you will natually heal every 25 ticks, or 1.25 seconds.
+By default, you have no pips, but when you have one or more pips, you will gain Haste. With each extra pip, the level of haste will increase, up to 5. 
 
-Animal Instinct, denoted by a white/purple meter when crouching is your active ability. The bar starts empty, but will slowly fill over the course of 15 seconds. When full, crouching and right-clicking will activate Animal Instinct, taking the full meter over the course of 5 seconds. During this time, you will be slowed and in the dark, but will gain Regen 2 and be able to see mobs through walls in a 15 block radius.
+At 5 pips, or full charge, you will also gain Regen 1. On top of that, you will natually heal every 25 ticks, or 1.25 seconds.
+
+-------------------
+
+Animal Instinct, denoted by a white/purple meter when crouching is your active ability. The bar starts empty, but will slowly fill over the course of 15 seconds. 
+
+When full, crouching and right-clicking will activate Animal Instinct, taking the full meter over the course of 5 seconds. 
+
+During this time, you will be slowed and in the dark, but will gain Regen 2 and be able to see mobs through walls in a 15 block radius.
 
 
 Demo
 ====
 
-This video will demonstrate the usage of Nichirin Fangs.
+This video will demonstrate the usage of the Nichirin Fangs.
 
 [INSERT VIDEO HERE]
