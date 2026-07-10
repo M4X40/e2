@@ -23,6 +23,17 @@ Stat Overview
 | Hold Style   | One-Handed Shield   |
 +--------------+---------------------+
 
+Held Passives
+=============
+
+
++--------+------------+-----------+--------------+
+| Effect | Jump Boost | Swiftness | Armor Points |
++--------+------------+-----------+--------------+
+| Level  | 2          | 2         | 4            |
++--------+------------+-----------+--------------+
+
+
 Ability
 =======
 Ability Quick-Guide
