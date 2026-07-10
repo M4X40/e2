@@ -23,6 +23,12 @@ Stat Overview
 +---------------+--------------+
 
 
+Held Effects
+============
+
+
+
+
 Ability
 =======
 Ability Quick-Guide
@@ -47,7 +53,7 @@ Rampage, which is denoted by a red meter when not crouching, is your passive abi
 
 By default, you have no pips, but when you have one or more pips, you will gain Haste. With each extra pip, the level of haste will increase, up to 5. 
 
-At 5 pips, or full charge, you will also gain Regen 1. On top of that, you will natually heal every 25 ticks, or 1.25 seconds.
+At 5 pips, or full charge, you will also gain Regen 1. On top of that, you will have full knockback resistance.
 
 -------------------
 
