@@ -60,4 +60,8 @@ Demo
 
 This video will demonstrate the usage of The Bass Katars.
 
-[INSERT VIDEO HERE]
+(Hint: Click the image to watch the video)
+
+.. image:: https://img.youtube.com/vi/s66wlxtQwdI/maxresdefault.jpg
+    :alt: Click to view The Bass Katars demonstration
+    :target: https://www.youtube.com/watch?v=s66wlxtQwdI
