@@ -65,4 +65,8 @@ Demo
 
 This video will demonstrate the usage of Stormbreaker.
 
-[INSERT VIDEO HERE]
+(Hint: Click the image to watch the video)
+
+.. image:: https://img.youtube.com/vi/Njav8XimXt0/maxresdefault.jpg
+    :alt: Click to view the Stormbreaker demonstration
+    :target: https://www.youtube.com/watch?v=Njav8XimXt0
