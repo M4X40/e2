@@ -72,4 +72,8 @@ Demo
 
 This video will demonstrate the usage of the Nichirin Fangs.
 
-[INSERT VIDEO HERE]
+(Hint: Click the image to watch the video)
+
+.. image:: https://img.youtube.com/vi/uM27FMBTvsQ/maxresdefault.jpg
+    :alt: Click to view the Nichirin Fangs demonstration
+    :target: https://www.youtube.com/watch?v=uM27FMBTvsQ
