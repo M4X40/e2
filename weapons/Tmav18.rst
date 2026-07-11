@@ -62,4 +62,8 @@ Demo
 
 This video will demonstrate the usage of The Maverick.
 
-[INSERT VIDEO HERE]
+(Hint: Click the image to watch the video)
+
+.. image:: https://img.youtube.com/vi/5WtYyju59UQ/maxresdefault.jpg
+    :alt: Click to view The Maverick demonstration
+    :target: https://www.youtube.com/watch?v=5WtYyju59UQ
