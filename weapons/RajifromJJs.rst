@@ -58,4 +58,8 @@ Demo
 
 This video will demonstrate the usage of the Dark Moon Greatsword.
 
-[INSERT VIDEO HERE]
+(Hint: Click the image to watch the video)
+
+.. image:: https://img.youtube.com/vi/rAoXfFtgjGk/maxresdefault.jpg
+    :alt: Click to view the Dark Moon Greatsword demonstration
+    :target: https://youtu.be/rAoXfFtgjGk
